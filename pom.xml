@@ -16,7 +16,6 @@
 
 	<dependencies>
 		<!-- Spring dependencies -->
-
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-context-support</artifactId>
